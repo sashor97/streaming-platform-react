@@ -1,6 +1,6 @@
 import React from 'react';
 
-function StreamCreate() {
+const StreamCreate=()=> {
     return (
         <div>
             Stream Create
